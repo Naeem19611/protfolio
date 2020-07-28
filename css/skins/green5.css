@@ -1,0 +1,41 @@
+.Aside .logo a::before{
+    border-top: 4px solid #72b626;
+    border-left: 4px solid #72b626;
+}
+.Aside .logo a::after{
+    border-right: 4px solid #72b626;
+    border-bottom: 4px solid #72b626;
+}
+.contact .contact-info-item .icon .fa,
+.blog .blog-item-inner .blog-info .blog-tags a,
+.lightbox .lightbox-controls .prev-item .fa,
+.lightbox .lightbox-controls .next-item .fa,
+.protfolio .protfolio-item .protfolio-info .icon .fa,
+body.dark .protfolio .protfolio-filter button.active,
+.protfolio .protfolio-filter button.active,
+.service .service-item .service-item-inner .icon .fa,
+.about .about-content .about-text h3 span,
+body.dark .Aside .nav li a:hover,
+body.dark .Aside .nav li a.active,
+.Aside .nav li a:hover,
+.Aside .nav li a.active{
+   color: #72b626;
+}
+.blog .blog-item-inner .blog-img .blog-date,
+.service .service-item .service-item-inner:hover .icon,
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.Aside .nav-toggler span,
+.Aside .nav-toggler span::before,
+.Aside .nav-toggler span::after,
+.home .intro .social-links a{
+   background-color: #72b626;
+}
+body.dark .protfolio .protfolio-filter button.active,
+.protfolio .protfolio-filter button.active{
+    border-color: #72b626;
+}
